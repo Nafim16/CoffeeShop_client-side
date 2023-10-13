@@ -1,4 +1,4 @@
-import React from 'react';
+
 import img1 from "../images/more/6.jpeg"
 
 const Upper = () => {
@@ -15,5 +15,6 @@ const Upper = () => {
         </div>
     );
 };
+
 
 export default Upper;
